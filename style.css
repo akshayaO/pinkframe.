@@ -1,0 +1,17 @@
+html{
+    text-align: center;
+}
+
+
+.btn-success:hover{
+background-color: red;
+}
+
+
+
+@keyframes canvas{
+   
+    from{box-shadow:1px 1px 38px blue;}
+    to{box-shadow: 1px 1px 38px rgb(255, 1, 255);}
+}
+
